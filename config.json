@@ -1,0 +1,5 @@
+{
+    "psd": "in_dir/psd.tsv",
+    "new_name": "average",
+    "channel_list": "[MEG2042, MEG2043, MEG1913, MEG1912]"
+}
